@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "SM64 Aliased";
+    src: url("SM64Text1.3.otf") format("otd");
+}
+@font-face {
+    font-family: "SM64 HUD";
+    src: url("SM64 HUD Font 1.2.otf.otf") format("otd");
+}
+br {
+    font-family: "SM64 Aliased", sans-serif;
+}
